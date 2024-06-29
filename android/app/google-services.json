@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "656006840858",
+    "project_id": "dalil-app-58850",
+    "storage_bucket": "dalil-app-58850.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656006840858:android:4a93b7840002ea4dd487a3",
+        "android_client_info": {
+          "package_name": "com.example.dalil_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5dSQ_IF7EBH5JfiB40pteVruUeZsyKAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
